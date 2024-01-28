@@ -17,5 +17,7 @@ This project presents the official website for Wonderful Management, LLC, a dyna
 
 ## Video Preview
 
+https://github.com/ark229/wonderful-brand/assets/40047791/36ba1eff-46b6-4db5-ba29-da3f74c81b15
+
 ## Link to website:
 https://wonderfulyou.netlify.app/
